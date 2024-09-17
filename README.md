@@ -6,12 +6,12 @@
 
   HomePage                 |   Product Detail Page        |  Cart Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/lewisv4/flutter_ecommerce_appblob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/master/screenshots/screenshot_3.jpg?raw=true)
+![](https://github.com/lewisv4/flutter_ecommerce_appblob/main/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_3.jpg?raw=true)
 
 ## iOS Screenshots
   HomePage                 |   Product Detail Page        |  Cart Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/lewisv4/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_2.png?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_3.png?raw=true)
+![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_ios_2.png?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_ios_3.png?raw=true)
 
 ## Directory Structure
 ```
