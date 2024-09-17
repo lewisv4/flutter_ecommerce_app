@@ -6,7 +6,7 @@
 
   HomePage                 |   Product Detail Page        |  Cart Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/lewisv4/flutter_ecommerce_appblob/main/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_3.jpg?raw=true)
+![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/lewisv4/flutter_ecommerce_app/blob/main/screenshots/screenshot_3.jpg?raw=true)
 
 ## iOS Screenshots
   HomePage                 |   Product Detail Page        |  Cart Page
